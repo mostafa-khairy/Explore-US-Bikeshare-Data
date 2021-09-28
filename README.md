@@ -17,17 +17,17 @@ In this project, you will use data provided by Motivate, a bike share system pro
 The Datasets
 Randomly selected data for the first six months of 2017 are provided for all three cities. All three of the data files contain the same core six (6) columns:
 
-Start Time  
-End Time  
-Trip Duration 
-Start Station 
-End Station 
-User Type 
+- Start Time  
+- End Time  
+- Trip Duration 
+- Start Station 
+- End Station 
+- User Type 
 
 The Chicago and New York City files also have the following two columns:
 
-Gender
-Birth Year
+- Gender
+- Birth Year
 
 # Statistics Computed
 
